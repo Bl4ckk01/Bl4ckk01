@@ -26,5 +26,5 @@
 <img src="https://skillicons.dev/icons?i=lua,cpp,cs,unity,unreal" />
     
 ### Tools
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,prisma,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,discord,vscode,visualstudio,figma,prisma,postman" />
 
