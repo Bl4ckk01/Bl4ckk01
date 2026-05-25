@@ -35,7 +35,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="left">
-    ###● Front-end
+    ###Front-end
     <img src="https://skillicons.dev/icons?i=react,html,css,javascript,typescript,tailwind,nextjs" />
     <p>● Backend</p>
     <img src="https://skillicons.dev/icons?i=nodejs,express"/>
