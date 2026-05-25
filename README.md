@@ -34,23 +34,21 @@
  
 <h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
 <br/>
-
-<div align="left">
-    ### Frontend
-    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,javascript,typescript,tailwind" />
-    
-    ### Backend
-    <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask" />
-    
-    ### Database
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postgres" />
-    
-    ### Game / Scripting
-    <img src="https://skillicons.dev/icons?i=lua,cpp,cs,unity,unreal" />
-    
-    ### Tools
-    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
-</div>
-
 <br/>
 <hr/>
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,javascript,typescript,tailwind" />
+    
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask" />
+    
+### Database
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postgres" />
+    
+### Game / Scripting
+<img src="https://skillicons.dev/icons?i=lua,cpp,cs,unity,unreal" />
+    
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+
