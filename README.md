@@ -8,7 +8,7 @@
 
  <hr/>
  
-<h2 align="center">:hammer_pick: Languages - Frameworks - Tools :hammer_pick:</h2>
+<h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
 <br/>
 <br/>
 <hr/>
